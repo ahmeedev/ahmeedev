@@ -62,14 +62,26 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
 
 
 
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
+2. 🗣 Commented on [#23](https://github.com/kittinan/spotify-github-profile/issues/23) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+3. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+4. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+5. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+<!--END_SECTION:activity-->
 
 
 
-
-<!--START_SECTION:waka-->
+ <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
@@ -79,13 +91,7 @@ No Activity tracked this Week
 ---
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
-2. 🗣 Commented on [#23](https://github.com/kittinan/spotify-github-profile/issues/23) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-3. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-4. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-5. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-<!--END_SECTION:activity-->
+
 ---
 
 <!-- BLOG-POST-LIST:START -->
