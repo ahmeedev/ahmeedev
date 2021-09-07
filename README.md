@@ -11,3 +11,7 @@
 5. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
 ---
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+---
