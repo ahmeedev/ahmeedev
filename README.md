@@ -66,7 +66,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbintariq4u&hide_border=true" />
 </details>
 
 
