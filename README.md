@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p
-  
-  
-  <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
