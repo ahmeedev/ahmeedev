@@ -46,7 +46,6 @@
  
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-  
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube**
@@ -57,59 +56,23 @@
 - 📝 &nbsp; Checkout my [RESUME]()
 
 ### 🔨 Languages and Tools:
+<!-- https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/ -->
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/git-scm/git-scm.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/material-ui/material-ui.svg" alt="Flutter" height="42px" /></a>
+<a><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/figma/figma.svg" alt="Flutter" height="42px" /></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a><img  align="left" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="42px" /></a> 
-<a><img  align="left" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="42px" /></a> 
-<a><img  align="left" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="42px" /></a>  
-
-<a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="42px" /></a>
-<a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="42px" /></a>
-<a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="42px" /></a>
-<a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="42px" /></a>
-<a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="42px" /> </a>
-
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
-
-
-### Projects and Dev Stuffs:
+###  🖥 Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
