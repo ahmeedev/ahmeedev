@@ -1,14 +1,31 @@
-
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
-
-### I'm Ahmad Tariq
-  
-<div>  
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+<table width="1000">
+<thead>
+  <tr>
+    <th rowspan="2">
+      <img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
+    </th>
+    <th>
+    <div align="left">I'm Ahmad Tariq</div>
+    </th>
+  </tr>
+  <tr>
+    <th align="left">
+    I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+    </th>
+    
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div align="left">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 </div>
-<br/>
-
-<div align="left">
+    </td>
+    <td>
+      <div align="left">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,11 +38,50 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+    </td>
+  </tr>
+</tbody>
+</table>
 
-![](https://gitwar.herokuapp.com/badge?username=ahmadbintariq4u&label=Profile%20Score&style=for-the-badge&color=0088cc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 
   
+ 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
