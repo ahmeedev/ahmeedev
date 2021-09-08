@@ -1,11 +1,21 @@
-<table width="1000">
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+
+
+
+<table>
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
-    </th>
-    <th>
-    <div align="left">I'm Ahmad Tariq</div>
+      <img align="left" width="400" height="200" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
+    </th >
+    <th align="left">
+      <span size=100>I'm Ahmad Tariq</span>
     </th>
   </tr>
   <tr>
@@ -18,14 +28,12 @@
 <tbody>
   <tr>
     <td>
-      <div align="left">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>
+      <div>
+      <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+      </div>
     </td>
-    <td>
-      <div align="left">
+    <td align="center">
+      <div>
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
