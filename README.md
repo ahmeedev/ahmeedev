@@ -89,7 +89,9 @@ Like My Work?
 
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 September, 2021 - 07 September, 2021
+
+Dart   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
