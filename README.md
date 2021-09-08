@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <th align="left">
-    I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+    I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and       leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
     </th>
     
   </tr>
@@ -106,13 +106,13 @@ Dart   9 mins          ███████████████████
 
 > Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/rise4solution" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-
-# ⚡ Recent Activities
 ---
+> ### Recent Activities
+
 <details>	
-  <summary><b>Github</b></summary>
+  <summary><b>github</b></summary>
   <br />
   
   <!--START_SECTION:activity-->
@@ -126,7 +126,7 @@ Dart   9 mins          ███████████████████
 </details>
 
 <details>	
-  <summary><b>Youtube</b></summary>
+  <summary><b>youtube</b></summary>
   <br />
   
   <!-- BLOG-POST-LIST:START -->
@@ -140,6 +140,3 @@ Dart   9 mins          ███████████████████
 </details>
 
 ---
-
-
-
