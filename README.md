@@ -1,21 +1,11 @@
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-
-
-
-
-
 <table>
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="400" height="200" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
+      <img align="left" width="300" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
     </th >
     <th align="left">
-      <span size=100>I'm Ahmad Tariq</span>
+      <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=serif&size=30&vCenter=true&lines=I'm+Ahmad+Tariq" />
     </th>
   </tr>
   <tr>
