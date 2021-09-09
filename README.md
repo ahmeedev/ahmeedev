@@ -5,7 +5,7 @@
       <img align="left" width="300" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
     </th >
     <th align="left">
-      <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=serif&size=30&vCenter=true&lines=I'm+Ahmad+Tariq" />
+      <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;glad+to+see+you+." />
     </th>
   </tr>
   <tr>
@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
       <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&&style=flat-square" align="center" />
+      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&0088cc&style=flat" align="center" />
       </div>
     </td>
     <td align="center">
@@ -60,8 +60,8 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube**
-- 🤝 &nbsp; I'm looking for a **flutter developer** for the teamwork
+- 🔭 &nbsp; I’m currently working on **Software Architecture**
+- 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
 - 🌱 &nbsp; I’m currently learning **Flutter**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmadbintariq4u?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
