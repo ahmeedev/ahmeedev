@@ -57,6 +57,14 @@
 </table>
 
 
+ <!--STARTS_HERE_QUOTE_README-->
+  > <i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
+  <!--ENDS_HERE_QUOTE_README-->
+
+
+
+
+
  
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/coder.gif" />
 
@@ -121,10 +129,6 @@ Dart   9 mins          ███████████████████
 
 <a href="https://www.buymeacoffee.com/rise4solution" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 
 <!-- ---
