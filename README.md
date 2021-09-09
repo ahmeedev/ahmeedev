@@ -2,7 +2,7 @@
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="300" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
+      <img align="left" width="300" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/avatar.png" />
     </th >
     <th align="left">
       <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;glad+to+see+you+." />
@@ -56,7 +56,7 @@
 
 
  
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/coder.gif" />
 
 ### 🧐 More About Me:
 
