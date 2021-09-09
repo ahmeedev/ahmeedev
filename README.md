@@ -10,9 +10,9 @@
   </tr>
   <tr>
     <th align="left" >
-      <span align="justify">
+      <div align="justify">
     I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-      </span>
+      </div>
     </th>
     
   </tr>
@@ -115,14 +115,26 @@ Week: 02 September, 2021 - 08 September, 2021
 Dart   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
+<br>
 
 > Like My Work?
 
 <a href="https://www.buymeacoffee.com/rise4solution" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
+
+<!-- ---
+  
+  <div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=react&animation=default&layout=default&font=default" />
+  </div>
+  
+--- -->
+
+
+
 <h1>  <img align="center" width="40" " alt="Recent" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/recent.png" /> Recent Activities:</h1>
 
+  
 <details>	
   <summary><b>⚡ Github</b></summary>
   <br />
@@ -150,5 +162,6 @@ Dart   9 mins          ███████████████████
 <!-- BLOG-POST-LIST:END -->
   
 </details>
+
 
 
