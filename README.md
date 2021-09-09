@@ -2,10 +2,10 @@
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="300" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/avatar.png" />
+      <img align="left" width="320" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/avatar.png" />
     </th >
     <th align="left">
-      <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;glad+to+see+you+." />
+      <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;glad+to+see+you" />
     </th>
   </tr>
   <tr>
@@ -23,30 +23,30 @@
       </div>
     </td>
     <td align="center">
-      <div>
+      <div align="center">
 <a href="https://twitter.com/ahmadbintariq4u" target="_blank">
-<img src=https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" align="center" />
 </a>
 <a href="https://instagram.com/ahmadbintariq4u" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" align="center" />
 </a>
 <a href="https://www.facebook.com/ahmadbintariq4u" target="_blank">
-<img src=https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" align="center"/>
 </a>
 <a href="https://t.me/rise4solution" target="_blank">
-<img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" align="center"/>
 </a>
 <a href="https://www.linkedin.com/in/ahmad-tariq-64a03b206/" target="_blank">
-<img src=https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" align="center"/>
 </a> 
 <a href="https://discord.gg/suqngTEs" target="_blank">
-<img src=https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" align="center"/>
 </a>  
 <a href="https://ahmadbintariq4u.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/-Medium-02b875?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Medium-02b875?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" align="center"/>
 </a>  
 <a href="https://www.youtube.com/channel/UCSyjP8ZOjRWphIukkmUkoCA" target="_blank">
-<img src=https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" align="center"/>
 </a>      
 </div>
     </td>
