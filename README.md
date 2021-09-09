@@ -2,10 +2,10 @@
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="320" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/avatar.png" />
+      <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/avatar.png" />
     </th >
     <th align="left">
-      <img align="left" width="420" height="50" alt="Dani Akash" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;Glad+To+See+You" />
+      <img align="left" width="420" height="50" alt="I'm Ahmad Tariq" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;Glad+To+See+You" />
     </th>
   </tr>
   <tr>
@@ -72,18 +72,18 @@
 ### 🔨 Languages and Tools:
 <!-- https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/ -->
 
-<a href="https://www.programiz.com/c-programming"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.programiz.com/cpp-programming"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.java.com/en/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/html/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/css/css_intro.asp"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/js/default.asp"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
-<a href="https://flutter.dev/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
-<a href="https://dart.dev/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.android.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
-<a href="https://firebase.google.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
-<a href="https://git-scm.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/git-scm/git-scm.svg" alt="Git" height="42px" /></a>
-<a href="https://www.figma.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
+<a href="https://www.programiz.com/c-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.programiz.com/cpp-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/git-scm/git-scm.svg" alt="Git" height="42px" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
 ###  🖥 Projects and Dev Stuffs:
 
 <details>	
@@ -121,10 +121,10 @@ Dart   9 mins          ███████████████████
 
 <a href="https://www.buymeacoffee.com/rise4solution" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<h1> 🎇 Recent Activities:</h1>
+<h1>  <img align="center" width="40" " alt="Recent" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/recent.png" /> Recent Activities:</h1>
 
 <details>	
-  <summary><b> ⚡ Github</b></summary>
+  <summary><b>⚡ Github</b></summary>
   <br />
   
   <!--START_SECTION:activity-->
@@ -138,7 +138,7 @@ Dart   9 mins          ███████████████████
 </details>
 
 <details>	
-  <summary><b>🚩 Youtube</b></summary>
+  <summary><b>🔥 Youtube</b></summary>
   <br />
   
   <!-- BLOG-POST-LIST:START -->
