@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&0088cc&style=flat" align="center" />
+      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&0088cc&style=flat" alt="Profile Score" align="center" />
       </div>
     </td>
     <td align="center">
