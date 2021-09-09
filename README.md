@@ -17,25 +17,37 @@
 </thead>
 <tbody>
   <tr>
-    <td>
-      <div>
-      <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+    <td align="center">
+      <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&&style=flat-square" align="center" />
       </div>
     </td>
     <td align="center">
       <div>
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://twitter.com/ahmadbintariq4u" target="_blank">
+<img src=https://img.shields.io/badge/-Twitter-0e76a8?style=flat&logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://instagram.com/ahmadbintariq4u" target="_blank">
+<img src=https://img.shields.io/badge/-Instagram-00acee?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/ahmadbintariq4u" target="_blank">
+<img src=https://img.shields.io/badge/-Facebook-0e76a8?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/-LinkedIn-e4405f?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
+</a> 
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/-Discord-e4405f?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
 </a>  
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/-Medium-e4405f?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" />
+</a>  
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/-Youtube-e4405f?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
+</a>      
 </div>
     </td>
   </tr>
