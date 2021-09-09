@@ -33,19 +33,19 @@
 <a href="https://www.facebook.com/ahmadbintariq4u" target="_blank">
 <img src=https://img.shields.io/badge/-Facebook-0e76a8?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
+<a href="https://t.me/rise4solution" target="_blank">
 <img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/ahmad-tariq-64a03b206/" target="_blank">
 <img src=https://img.shields.io/badge/-LinkedIn-e4405f?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a> 
-<a href="" target="_blank">
+<a href="https://discord.gg/suqngTEs" target="_blank">
 <img src=https://img.shields.io/badge/-Discord-e4405f?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
 </a>  
-<a href="" target="_blank">
+<a href="https://ahmadbintariq4u.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/-Medium-e4405f?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" />
 </a>  
-<a href="" target="_blank">
+<a href="https://www.youtube.com/channel/UCSyjP8ZOjRWphIukkmUkoCA" target="_blank">
 <img src=https://img.shields.io/badge/-Youtube-e4405f?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>      
 </div>
