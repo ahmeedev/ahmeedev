@@ -118,9 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2021 - 13 September, 2021
-
-Dart   9 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br>
