@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
