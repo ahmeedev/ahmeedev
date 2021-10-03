@@ -152,10 +152,10 @@ Dart   5 mins          █▒░░░░░░░░░░░░░░░░░
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
-2. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
-3. 🗣 Commented on [#23](https://github.com/kittinan/spotify-github-profile/issues/23) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-4. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-5. 🗣 Commented on [#34](https://github.com/novatorem/novatorem/issues/34) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+2. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
+3. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
+4. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
+5. 🗣 Commented on [#23](https://github.com/kittinan/spotify-github-profile/issues/23) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
   <!--END_SECTION:activity-->
   
 </details>
