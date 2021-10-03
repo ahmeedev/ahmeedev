@@ -154,8 +154,8 @@ Dart   5 mins          █▒░░░░░░░░░░░░░░░░░
 1. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
 2. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
 3. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
-4. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
-5. 🗣 Commented on [#23](https://github.com/kittinan/spotify-github-profile/issues/23) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+4. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
+5. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
   <!--END_SECTION:activity-->
   
 </details>
