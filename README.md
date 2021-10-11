@@ -118,7 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 JavaScript   1 hr 3 mins     ███████████████████░░░░░░   76.45 % 
 HTML         14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
