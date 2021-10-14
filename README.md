@@ -118,9 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
-
-HTML   5 mins          █████████████████████▒░░░   85.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br>
