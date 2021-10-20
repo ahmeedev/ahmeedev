@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
