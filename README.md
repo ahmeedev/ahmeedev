@@ -118,7 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 28 October, 2021
+Week: 23 October, 2021 - 29 October, 2021
 
 HTML         2 hrs 22 mins   ████████████████░░░░░░░░░   64.27 % 
 Dart         31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
