@@ -118,7 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
+Week: 28 October, 2021 - 03 November, 2021
 
 Python       2 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.10 % 
 HTML         1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.44 % 
