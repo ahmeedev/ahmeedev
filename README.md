@@ -118,7 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
 HTML         1 hr 55 mins    ██████████▒░░░░░░░░░░░░░░   41.75 % 
 PHP          1 hr 53 mins    ██████████▒░░░░░░░░░░░░░░   40.77 % 
