@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
