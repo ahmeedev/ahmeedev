@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
