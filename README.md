@@ -152,11 +152,11 @@ CSS      7 mins          ▓░░░░░░░░░░░░░░░░░�
   <br />
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
-2. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
-3. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
+1. ❗️ Closed issue [#1](https://github.com/dishank08/Public-Transport-Management-System/issues/1) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
+2. ❗️ Opened issue [#2](https://github.com/dishank08/Public-Transport-Management-System/issues/2) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
+3. ❗️ Opened issue [#1](https://github.com/dishank08/Public-Transport-Management-System/issues/1) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
 4. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
-5. ❗️ Opened issue [#23](https://github.com/gazf/github-readme-twitter/issues/23) in [gazf/github-readme-twitter](https://github.com/gazf/github-readme-twitter)
+5. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
   <!--END_SECTION:activity-->
   
 </details>
