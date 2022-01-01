@@ -118,7 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Python   1 hr 55 mins    ████████████░░░░░░░░░░░░░   47.74 % 
 HTML     1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   30.40 % 
