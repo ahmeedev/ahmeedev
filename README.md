@@ -118,11 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
-
-Python   1 hr 30 mins    ██████████████▓░░░░░░░░░░   58.85 % 
-HTML     43 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-PHP      19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br>
