@@ -118,7 +118,13 @@
 
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 January, 2022 - 15 January, 2022
+
+HTML         54 mins         ███████████▒░░░░░░░░░░░░░   45.86 % 
+JavaScript   42 mins         █████████░░░░░░░░░░░░░░░░   36.41 % 
+Markdown     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
 <br>
