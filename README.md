@@ -120,8 +120,7 @@
 ```text
 Week: 18 January, 2022 - 24 January, 2022
 
-Dart    1 hr 24 mins    █████████████░░░░░░░░░░░░   52.42 % 
-PHP     1 hr 15 mins    ███████████▓░░░░░░░░░░░░░   46.83 % 
+Dart   1 hr 24 mins    █████████████████████████   99.48 % 
 ```
 <!--END_SECTION:waka-->
 <br>
