@@ -120,7 +120,8 @@
 ```text
 Week: 27 January, 2022 - 02 February, 2022
 
-Dart    2 hrs 7 mins    █████████████████████████   99.56 % 
+Dart    4 hrs 55 mins   ████████████████████████▓   99.20 % 
+YAML    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 <br>
