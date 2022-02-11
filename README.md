@@ -118,10 +118,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
-
-YAML   10 mins         ██████████████████████▒░░   89.28 % 
-Dart   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br>
