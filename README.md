@@ -120,11 +120,11 @@
 ```text
 Week: 10 February, 2022 - 16 February, 2022
 
-Total: 6 hrs 35 mins
+Total: 10 hrs 59 mins
 
-Dart       6 hrs 13 mins   ███████████████████████▓░   94.32 % 
-YAML       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Dart       10 hrs 36 mins  ████████████████████████░   96.59 % 
+YAML       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->
 <br>
