@@ -117,15 +117,18 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=ahmadbintariq4u&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
  <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Dart         9 hrs 8 mins    ██████████████████████▒░░   88.71 % 
-Groovy       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Properties   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-XML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+```text
+From: 19 February 2022 - To: 26 February 2022
+
+Dart         9 hrs 8 mins    ██████████████████████▒░░   88.71 %
+Groovy       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Properties   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+XML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
+
 <!--END_SECTION:waka-->
 <br>
 
