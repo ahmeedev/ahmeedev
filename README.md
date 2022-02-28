@@ -156,11 +156,11 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
   <br />
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11935](https://github.com/facebook/create-react-app/issues/11935) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. ❗️ Closed issue [#1](https://github.com/dishank08/Public-Transport-Management-System/issues/1) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
-3. ❗️ Opened issue [#2](https://github.com/dishank08/Public-Transport-Management-System/issues/2) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
-4. ❗️ Opened issue [#1](https://github.com/dishank08/Public-Transport-Management-System/issues/1) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
-5. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
+1. 🗣 Commented on [#181](https://github.com/felangel/bloc/issues/181) in [felangel/bloc](https://github.com/felangel/bloc)
+2. 🗣 Commented on [#181](https://github.com/felangel/bloc/issues/181) in [felangel/bloc](https://github.com/felangel/bloc)
+3. 🗣 Commented on [#11935](https://github.com/facebook/create-react-app/issues/11935) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+4. ❗️ Closed issue [#1](https://github.com/dishank08/Public-Transport-Management-System/issues/1) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
+5. ❗️ Opened issue [#2](https://github.com/dishank08/Public-Transport-Management-System/issues/2) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
   <!--END_SECTION:activity-->
   
 </details>
