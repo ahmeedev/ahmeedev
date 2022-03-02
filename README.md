@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
+<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
