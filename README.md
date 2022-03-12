@@ -151,6 +151,16 @@ XML          1 min           ░░░░░░░░░░░░░░░░░
 <h1>  <img align="center" width="40" " alt="Recent" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/recent.png" /> Recent Activities:</h1>
 
   
+  <details>	
+  <summary><b>🎇 Twitter</b></summary>
+  <br />
+  
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+  
+</details>
+  
+  
 <details>	
   <summary><b>⚡ Github</b></summary>
   <br />
