@@ -166,11 +166,11 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
   <br />
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-2. 🗣 Commented on [#181](https://github.com/felangel/bloc/issues/181) in [felangel/bloc](https://github.com/felangel/bloc)
-3. 🗣 Commented on [#181](https://github.com/felangel/bloc/issues/181) in [felangel/bloc](https://github.com/felangel/bloc)
-4. 🗣 Commented on [#11935](https://github.com/facebook/create-react-app/issues/11935) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-5. ❗️ Closed issue [#1](https://github.com/dishank08/Public-Transport-Management-System/issues/1) in [dishank08/Public-Transport-Management-System](https://github.com/dishank08/Public-Transport-Management-System)
+1. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+2. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+3. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+4. ❗️ Opened issue [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+5. 🗣 Commented on [#181](https://github.com/felangel/bloc/issues/181) in [felangel/bloc](https://github.com/felangel/bloc)
   <!--END_SECTION:activity-->
   
 </details>
