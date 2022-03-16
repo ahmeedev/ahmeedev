@@ -170,7 +170,7 @@ XML          5 mins          ░░░░░░░░░░░░░░░░░
 2. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 3. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 4. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-5. ❗️ Opened issue [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+5. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
   <!--END_SECTION:activity-->
   
 </details>
