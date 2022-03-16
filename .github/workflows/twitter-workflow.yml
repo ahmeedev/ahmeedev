@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "<<[[PLACE YOUR RSS FEED LINK HERE]]>>"
+          feed_list: "https://zapier.com/engine/rss/12084653/my-tweets"
           commit_message: "Updated with the latest tweets"
           committer_username: "ahmadbintariq4u"
           committer_email: "ahmadbintariq4u@gmail.com"
