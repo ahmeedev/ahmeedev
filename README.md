@@ -119,11 +119,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-Dart       9 hrs 11 mins   █████████████████████░░░░   83.70 %
-Python     1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Dart       9 hrs 31 mins   ████████████████████▓░░░░   82.22 %
+Python     1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
