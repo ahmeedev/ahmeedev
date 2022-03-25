@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
+<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
