@@ -163,8 +163,8 @@ Other    7 mins          ▒░░░░░░░░░░░░░░░░░�
   <br />
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
-2. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+1. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+2. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
 3. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 4. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 5. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
