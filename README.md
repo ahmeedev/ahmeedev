@@ -177,11 +177,11 @@ Other    7 mins          ▒░░░░░░░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [How to add Snippet in visual studio code | Add snippet in vs code | Custom Emmet #vscode #snippet](https://www.youtube.com/watch?v=GFWev_LJkBQ)
 - [#Flutter app does not install | Waiting for observatory port to be available | app does not debug](https://www.youtube.com/watch?v=0_RJmxQfNZs)
 - [How to load local #Assets in flutter Application | How to use Local Images in #Flutter Application](https://www.youtube.com/watch?v=L8XV9GtU0yA)
 - [JavaFX project | Boutique project in #javafx | Final project in #javafx #css #java #rise4solution](https://www.youtube.com/watch?v=IyVFcr9WqMg)
 - [What is Table Model in #java || How to add data in #JTable using Table Models | Working with #JTable](https://www.youtube.com/watch?v=XrMoxhYoTVA)
-- [How to create a #database in Netbeans || Working with database in Netbeans #java #netbeans #database](https://www.youtube.com/watch?v=1iJ7Rh9pWP8)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
