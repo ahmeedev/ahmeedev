@@ -167,9 +167,9 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-2. 🗣 Commented on [#620](https://github.com/hivedb/hive/issues/620) in [hivedb/hive](https://github.com/hivedb/hive)
+2. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 3. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-4. 🗣 Commented on [#1205](https://github.com/sshahine/JFoenix/issues/1205) in [sshahine/JFoenix](https://github.com/sshahine/JFoenix)
+4. 🗣 Commented on [#620](https://github.com/hivedb/hive/issues/620) in [hivedb/hive](https://github.com/hivedb/hive)
 5. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
   <!--END_SECTION:activity-->
   
