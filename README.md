@@ -70,7 +70,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Software Architecture**
+- 🔭 &nbsp; I’m currently working on **CUI TIMETABLE APPLICATION**
 - 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
 - 🌱 &nbsp; I’m currently learning **Flutter**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmadbintariq4u?tab=repositories)
