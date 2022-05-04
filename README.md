@@ -166,8 +166,8 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
   <br />
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-2. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+1. 🗣 Commented on [#148](https://github.com/jonataslaw/get_cli/issues/148) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+2. 🗣 Commented on [#146](https://github.com/jonataslaw/get_cli/issues/146) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
 3. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 4. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
 5. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
