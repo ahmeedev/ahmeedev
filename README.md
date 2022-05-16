@@ -75,7 +75,7 @@
 - 🌱 &nbsp; I’m currently learning **Flutter** and **Blockchain**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmadbintariq4u?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
-- 📝 &nbsp; Checkout my [RESUME]()
+<!-- - 📝 &nbsp; Checkout my [RESUME]() -->
 
 ### 🔨 Languages and Tools:
 <!-- https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/ -->
