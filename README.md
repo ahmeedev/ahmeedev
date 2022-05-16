@@ -72,7 +72,7 @@
 
 - 🔭 &nbsp; I’m currently working on **CUI TIMETABLE APPLICATION**
 - 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
-- 🌱 &nbsp; I’m currently learning **Flutter**
+- 🌱 &nbsp; I’m currently learning **Flutter** and **Blockchain**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmadbintariq4u?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
 - 📝 &nbsp; Checkout my [RESUME]()
