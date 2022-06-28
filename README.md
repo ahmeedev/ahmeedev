@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
