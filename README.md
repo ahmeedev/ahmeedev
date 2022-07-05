@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
