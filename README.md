@@ -58,7 +58,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
+<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
