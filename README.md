@@ -119,9 +119,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 03 July 2022 - To: 10 July 2022
+From: 04 July 2022 - To: 11 July 2022
 
-Dart   6 hrs 52 mins   █████████████████████████   100.00 %
+Dart         9 hrs 42 mins   ██████████████████████░░░   88.09 %
+JavaScript   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Solidity     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
