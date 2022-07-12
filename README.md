@@ -119,11 +119,12 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 04 July 2022 - To: 11 July 2022
+From: 05 July 2022 - To: 12 July 2022
 
-Dart         9 hrs 42 mins   ██████████████████████░░░   88.09 %
-JavaScript   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Solidity     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Dart         12 hrs 22 mins  ██████████████████████▒░░   88.93 %
+JavaScript   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Solidity     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
