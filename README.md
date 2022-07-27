@@ -119,11 +119,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
+From: 20 July 2022 - To: 27 July 2022
 
-Dart       19 hrs 17 mins  ████████████████████████░   96.47 %
-Markdown   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Dart       16 hrs 58 mins  ████████████████████████░   96.38 %
+Markdown   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
