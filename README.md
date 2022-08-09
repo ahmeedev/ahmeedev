@@ -119,11 +119,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 01 August 2022 - To: 08 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-Dart         5 hrs 30 mins   ██████████████████████▓░░   90.43 %
-JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Dart         7 hrs 21 mins   ███████████████████████░░   92.52 %
+JSON         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
