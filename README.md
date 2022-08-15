@@ -119,7 +119,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
 Dart             5 hrs 30 mins   ███████████████▓░░░░░░░░░   62.34 %
 PHP              2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.58 %
