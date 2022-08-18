@@ -119,14 +119,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2022 - To: 17 August 2022
-
-PHP              1 hr 44 mins    ███████████░░░░░░░░░░░░░░   44.31 %
-Dart             1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Markdown         32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Python           23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Other            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
