@@ -119,7 +119,13 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 August 2022 - To: 18 August 2022
+
+Dart       41 mins         ███████████████████░░░░░░   75.70 %
+Markdown   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+YAML       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+PHP        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
