@@ -119,14 +119,14 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
-Dart             12 hrs 28 mins  ███████████████████████░░   91.42 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-PHP              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Properties       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-JavaScript       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Blade Template   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Dart             8 hrs 16 mins   ██████████████████████░░░   87.59 %
+JSON             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+PHP              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Properties       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JavaScript       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Blade Template   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
