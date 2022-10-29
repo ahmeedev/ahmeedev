@@ -119,11 +119,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2022 - To: 28 October 2022
+From: 22 October 2022 - To: 29 October 2022
 
-Dart   10 hrs 6 mins   █████████████████████████   99.48 %
-XML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Dart   10 hrs 9 mins   ████████████████████████▒   96.89 %
+YAML   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+XML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
