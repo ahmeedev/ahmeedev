@@ -119,10 +119,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-Dart     5 hrs 46 mins   ████████████████▒░░░░░░░░   65.41 %
-Python   3 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Dart     20 mins         █████████████░░░░░░░░░░░░   51.54 %
+Python   19 mins         ████████████░░░░░░░░░░░░░   48.46 %
 ```
 
 <!--END_SECTION:waka-->
