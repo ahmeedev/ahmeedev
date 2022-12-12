@@ -119,10 +119,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
-
-Dart     20 mins         █████████████░░░░░░░░░░░░   51.54 %
-Python   19 mins         ████████████░░░░░░░░░░░░░   48.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
