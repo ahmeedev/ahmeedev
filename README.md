@@ -2,7 +2,7 @@
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/avatar.png" />
+      <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/avatar.png" />
     </th >
     <th align="left">
       <img align="left" width="420" height="50" alt="I'm Ahmad Tariq" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;Glad+To+See+You" />
@@ -21,18 +21,18 @@
   <tr>
     <td align="center">
       <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&0088cc&style=flat" alt="Profile Score" align="center" />
+      <img src="https://komarev.com/ghpvc/?username=ahmeedev&0088cc&style=flat" alt="Profile Score" align="center" />
       </div>
     </td>
     <td align="center">
       <div align="center">
-<a href="https://twitter.com/ahmadbintariq4u" target="_blank">
+<a href="https://twitter.com/ahmeedev" target="_blank">
 <img src=https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" align="center" />
 </a>
-<a href="https://instagram.com/ahmadbintariq4u" target="_blank">
+<a href="https://instagram.com/ahmeedev" target="_blank">
 <img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" align="center" />
 </a>
-<a href="https://www.facebook.com/ahmadbintariq4u" target="_blank">
+<a href="https://www.facebook.com/ahmeedev" target="_blank">
 <img src=https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" align="center"/>
 </a>
 <a href="https://t.me/rise4solution" target="_blank">
@@ -44,7 +44,7 @@
 <a href="https://discord.gg/suqngTEs" target="_blank">
 <img src=https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" align="center"/>
 </a>  
-<a href="https://ahmadbintariq4u.medium.com/" target="_blank">
+<a href="https://ahmeedev.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/-Medium-02b875?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" align="center"/>
 </a>  
 <a href="https://www.youtube.com/channel/UCSyjP8ZOjRWphIukkmUkoCA" target="_blank">
@@ -66,55 +66,55 @@
 
 
  
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/coder.gif" />
 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **CUI TIMETABLE APPLICATION**
 - 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
 - 🌱 &nbsp; I’m currently learning **Flutter** and **Blockchain**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmadbintariq4u?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmeedev?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
 <!-- - 📝 &nbsp; Checkout my [RESUME]() -->
 
 ### 🔨 Languages and Tools:
-<!-- https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/ -->
+<!-- https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/ -->
 
-<a href="https://www.programiz.com/c-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.programiz.com/cpp-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/git-scm/git-scm.svg" alt="Git" height="42px" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
+<a href="https://www.programiz.com/c-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.programiz.com/cpp-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
+<a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/git-scm/git-scm.svg" alt="Git" height="42px" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
 ###  🖥 Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadbintariq4u&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbintariq4u&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmeedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbintariq4u&hide_border=true&theme=react" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeedev&hide_border=true&theme=react" />
 </details>
 
 <!-- 
 <details>	
   <summary><b>☄️ WakaTime</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadbintariq4u&hide_border=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmeedev&hide_border=true&theme=react" />
 </details> -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ahmadbintariq4u&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ahmeedev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
  <!--START_SECTION:waka-->
 
@@ -143,7 +143,7 @@ No activity tracked
 
 
 
-<h1>  <img align="center" width="40" " alt="Recent" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/recent.png" /> Recent Activities:</h1>
+<h1>  <img align="center" width="40" " alt="Recent" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/recent.png" /> Recent Activities:</h1>
 
   
   <details>	
@@ -161,11 +161,11 @@ No activity tracked
   <br />
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-2. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-3. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-4. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
-5. 🗣 Commented on [#1](https://github.com/ahmadbintariq4u/twiiter/issues/1) in [ahmadbintariq4u/twiiter](https://github.com/ahmadbintariq4u/twiiter)
+1. 🗣 Commented on [#1](https://github.com/ahmeedev/twiiter/issues/1) in [ahmeedev/twiiter](https://github.com/ahmeedev/twiiter)
+2. 🗣 Commented on [#1](https://github.com/ahmeedev/twiiter/issues/1) in [ahmeedev/twiiter](https://github.com/ahmeedev/twiiter)
+3. 🗣 Commented on [#1](https://github.com/ahmeedev/twiiter/issues/1) in [ahmeedev/twiiter](https://github.com/ahmeedev/twiiter)
+4. 🗣 Commented on [#1](https://github.com/ahmeedev/twiiter/issues/1) in [ahmeedev/twiiter](https://github.com/ahmeedev/twiiter)
+5. 🗣 Commented on [#1](https://github.com/ahmeedev/twiiter/issues/1) in [ahmeedev/twiiter](https://github.com/ahmeedev/twiiter)
   <!--END_SECTION:activity-->
   
 </details>
