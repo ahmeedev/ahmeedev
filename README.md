@@ -70,9 +70,9 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **CUI TIMETABLE APPLICATION**
+- 🔭 &nbsp; I’m currently working on **FINANCE APPLICATION IN FLUTTER**
 - 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
-- 🌱 &nbsp; I’m currently learning **Flutter** and **Blockchain**
+- 🌱 &nbsp; I’m currently learning **Flutter** and **API DEVELOPMENT**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmeedev?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
 <!-- - 📝 &nbsp; Checkout my [RESUME]() -->
