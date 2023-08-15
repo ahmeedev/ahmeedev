@@ -119,9 +119,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2023 - To: 14 August 2023
+From: 08 August 2023 - To: 15 August 2023
 
-No activity tracked
+Dart   1 hr 27 mins    █████████████████████▓░░░   86.92 %
+JSON   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
 ```
 
 <!--END_SECTION:waka-->
