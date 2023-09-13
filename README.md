@@ -119,13 +119,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-JavaScript     12 hrs 26 mins  ████████████▓░░░░░░░░░░░░   50.16 %
-Dart           5 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-HTML           4 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 %
-CSS            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-XML            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JavaScript     8 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
+Dart           8 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   35.56 %
+HTML           4 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+CSS            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+XML            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
