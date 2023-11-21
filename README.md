@@ -121,7 +121,11 @@
 ```txt
 From: 13 November 2023 - To: 20 November 2023
 
-No activity tracked
+Dart              1 hr 44 mins    █████████████████▓░░░░░░░   71.03 %
+JavaScript        20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Groovy            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Other             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+YAML              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
