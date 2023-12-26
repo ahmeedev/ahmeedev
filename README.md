@@ -119,13 +119,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Dart              40 hrs 19 mins  ████████████████████▒░░░░   80.83 %
-HTML              2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-CSS               2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-JavaScript        2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JSON              1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Dart              40 hrs 24 mins  ████████████████████▒░░░░   81.82 %
+HTML              2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+CSS               2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+JavaScript        2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JSON              1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
