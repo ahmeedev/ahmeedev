@@ -119,13 +119,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
-Dart         15 hrs 14 mins  ████████████████████░░░░░   79.58 %
-YAML         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-JavaScript   1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Swift        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Dart         14 hrs 58 mins  ████████████████▓░░░░░░░░   66.02 %
+JavaScript   4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+YAML         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+HTML         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Swift        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
