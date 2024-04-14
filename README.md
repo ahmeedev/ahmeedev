@@ -119,13 +119,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Dart              11 hrs 54 mins  ██████████████▓░░░░░░░░░░   58.83 %
-HTML              3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-CSS               2 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Java Properties   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Groovy            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Dart              11 hrs 49 mins  ████████████████▒░░░░░░░░   65.34 %
+HTML              2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+CSS               1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Java Properties   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Groovy            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
