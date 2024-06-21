@@ -119,13 +119,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-Dart       9 hrs 29 mins   ████████████████████████▓   98.82 %
-Groovy     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Todotxt    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart      9 hrs 52 mins   █████████████████████████   99.65 %
+Todotxt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
