@@ -119,10 +119,12 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Dart      7 hrs 31 mins   █████████████████████████   99.54 %
-Todotxt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Dart      8 hrs 7 mins    ████████████████████████▒   97.67 %
+YAML      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Todotxt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
