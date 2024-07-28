@@ -119,13 +119,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2024 - To: 27 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
-Dart          1 hr 9 mins     █████████████████████░░░░   84.34 %
-Other         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-YAML          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Objective-C   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-CocoaPods     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
