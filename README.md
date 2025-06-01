@@ -94,18 +94,17 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
 ###  🖥 Projects and Dev Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmeedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
-</details>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeedev&hide_border=true&theme=react" />
-</details>
+<summary><b>⚡ Github Stats</b></summary>
+<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmeedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
+
+
+<summary><b>☄️ Github Streaks</b></summary>
+<br />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeedev&hide_border=true&theme=react" />
+
 
 
 
