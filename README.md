@@ -1,112 +1,101 @@
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">
-      <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/avatar.png" />
-    </th >
-    <th align="left">
-      <img align="left" width="420" height="50" alt="I'm Ahmad Tariq" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Ahmad+Tariq;Glad+To+See+You" />
-    </th>
-  </tr>
-  <tr>
-    <th align="left" >
-      <div align="justify">
-    I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-      </div>
-    </th>
-    
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center">
-      <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ahmeedev&0088cc&style=flat" alt="Profile Score" align="center" />
-      </div>
-    </td>
-    <td align="center">
-      <div align="center">
-<a href="https://twitter.com/ahmeedev" target="_blank">
-<img src=https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" align="center" />
-</a>
-<a href="https://instagram.com/ahmeedev" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" align="center" />
-</a>
-<a href="https://www.facebook.com/ahmadbintariq4u" target="_blank">
-<img src=https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" align="center"/>
-</a>
-<a href="https://t.me/rise4solution" target="_blank">
-<img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" align="center"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmad-tariq-64a03b206/" target="_blank">
-<img src=https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" align="center"/>
-</a> 
-<a href="https://discord.gg/suqngTEs" target="_blank">
-<img src=https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" align="center"/>
-</a>  
-<a href="https://ahmeedev.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/-Medium-02b875?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" align="center"/>
-</a>  
-<a href="https://www.youtube.com/channel/UCSyjP8ZOjRWphIukkmUkoCA" target="_blank">
-<img src=https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" align="center"/>
-</a>      
-</div>
-    </td>
-  </tr>
-</tbody>
-</table>
+<div align="center">
 
+<!-- Dynamic header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0088CC,100:00C9FF&height=200&section=header&text=Ahmad%20Tariq&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20Automation%20%7C%20Full%20Stack&descSize=18&descAlignY=58&descColor=aad4f5" />
 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0088CC&center=true&vCenter=true&width=700&lines=Building+cross-platform+apps+with+Flutter+%F0%9F%92%99;AI+Automation+%7C+Agents+%7C+Workflows+%F0%9F%A4%96;Full+Stack+with+React+%26+Next.js+%E2%9A%A1;Python+%7C+PostgreSQL+%7C+Redis+%F0%9F%90%8D;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
 
+<!-- Profile views + followers badges -->
+<img src="https://komarev.com/ghpvc/?username=ahmeedev&style=flat-square&color=0088CC&label=PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ahmeedev?style=flat-square&color=0088CC&label=FOLLOWERS&logo=github" alt="Followers" />
 
-
-
- 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/coder.gif" />
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on Flutter, Python & Blockchain
-- 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmeedev?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech-related, I am happy to help
-<!-- - 📝 &nbsp; Checkout my [RESUME]() -->
-
-### 🔨 Languages and Tools:
-<!-- https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/ -->
-
-<a href="https://www.programiz.com/c-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.programiz.com/cpp-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/git-scm/git-scm.svg" alt="Git" height="42px" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmeedev/ahmeedev/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
-###  🖥 Projects and Dev Stuffs:
-
-
-⚡ Github Stats
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmeedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
 </div>
 
-</br>
+## 👨‍💻 About Me
 
-☄️ Github Streaks
-<div>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeedev&hide_border=true&theme=react" />
+```yaml
+name:        Ahmad Tariq
+handle:      @ahmeedev
+location:    Pakistan 🇵🇰
+focus:       Flutter • AI Automation • Full Stack Development
+status:      Building & Shipping 🚀
+mentoring:   Open to guiding newcomers 👨🏻‍💻
+```
+
+- 🤖 Building **AI-powered automation** systems, agents & intelligent workflows
+- 📱 Crafting cross-platform apps with **Flutter** & **Dart**
+- ⚡ Developing full stack web apps using **React**, **Next.js** & **Python**
+- 🗄️ Working with **PostgreSQL**, **Redis** & cloud-native backends
+- 💬 Ask me about anything tech — happy to help!
+- 📦 All my projects → [github.com/ahmeedev](https://github.com/ahmeedev?tab=repositories)
+
+
+## 🛠️ Tech Stack
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend, Data & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmeedev&bg_color=0D1117&color=0088CC&line=0088CC&point=00C9FF&area=true&hide_border=true" width="95%" />
 </div>
 
+## 🤝 Connect With Me
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-tariq-64a03b206/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmeedev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSyjP8ZOjRWphIukkmUkoCA)
+[![Medium](https://img.shields.io/badge/Medium-02B875?style=for-the-badge&logo=medium&logoColor=white)](https://ahmeedev.medium.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/suqngTEs)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rise4solution)
+[![Instagram](https://img.shields.io/badge/Instagram-C32AA3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmeedev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmadbintariq4u)
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:0088CC,100:0D1117&height=100&section=footer" />
+</div>
 
